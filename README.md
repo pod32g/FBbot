@@ -1,0 +1,2 @@
+# FBbot
+Simple facebook bot
